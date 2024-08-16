@@ -1,0 +1,23 @@
+h1{
+    padding: 20px 20px;
+    margin-bottom: 0px;
+}
+img{
+    padding: 0px 695px 0px 675px;
+}
+h1,img{
+    background-color: #bed5e2;
+}
+.container{
+    background-color: #015249;
+    color: white;
+    display: inline-block;
+}
+.container1{
+    width: 100%;
+    background-color: brown;
+    display: inline-block;
+}
+.container2{
+    display: inline-block;
+}
