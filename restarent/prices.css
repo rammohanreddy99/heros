@@ -1,0 +1,12 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(137, 43, 226, 0.342);
+}
+pre{
+    color: rgb(152, 123, 123);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
